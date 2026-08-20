@@ -95,59 +95,5 @@
       "Great work pushing changes to the remote!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1787246970.711166,
-    "completed_at": 1787246977.602265,
-    "comments": [
-      "You are not ignoring runaway.txt. Find where the file is and fix that."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1787247146.523732,
-    "completed_at": 1787247154.718933,
-    "comments": [
-      "You are not ignoring runaway.txt. Find where the file is and fix that."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1787247348.23424,
-    "completed_at": 1787247355.045611,
-    "comments": [
-      "You are not ignoring runaway.txt. Find where the file is and fix that."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1787247538.466952,
-    "completed_at": 1787247545.125775,
-    "comments": [
-      "You should be using ** to match all subfolders to ignore runaway.txt."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1787247713.471015,
-    "completed_at": 1787247720.430214,
-    "comments": [
-      "You should be using ** to match all subfolders to ignore runaway.txt."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1787247770.973426,
-    "completed_at": 1787247777.736794,
-    "comments": [
-      "You should be using ** to match all subfolders to ignore runaway.txt."
-    ],
-    "status": "Incomplete"
   }
 ]
